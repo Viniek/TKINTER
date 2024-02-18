@@ -1,0 +1,14 @@
+**********You were served by Njeri**********
+Bill Number: 811
+Customer Name: fgff
+Customer phone number: fff
+=============================================
+PRODUCTS		QUANTITY		PRICE
+=============================================
+hp 1030 g2 battary		03           6000Ksh
+=============================================
+Total Laptop battery tax 600.0Ksh
+=============================================
+Total Amount: 6600.0Ksh
+=============================================
+         Thank you for shopping with us
